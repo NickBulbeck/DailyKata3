@@ -1,0 +1,1 @@
+This kata is for responsive web-site and images and stuff.
